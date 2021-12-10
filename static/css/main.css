@@ -1,0 +1,29 @@
+.submit {
+    float: right;
+}
+
+
+table {
+    width: 1000px;
+    border-collapse: collapse;
+    background-color: #212529;
+    text-align: center;
+    color: white;
+}
+
+
+tr {
+    border-bottom: 1px solid #2E3339;
+    border-top: 1px solid #2E3339;
+    border-collapse: collapse;
+
+}
+
+th, td {
+    border-bottom: 1px solid #2E3339;
+    border-top: 1px solid #2E3339;
+    border-collapse: collapse;
+    border-left: none;
+    border-right: none
+}
+
